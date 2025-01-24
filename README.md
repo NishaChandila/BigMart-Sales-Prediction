@@ -5,9 +5,10 @@ In our journey to understand sales performance and uncover key drivers of growth
 
 Next, we shifted to outlet-level insights, exploring how size, type, and location impact overall sales performance. By comparing outlet sales trends, we revealed high-performing segments and pinpointed underutilized opportunities. This data-driven approach equips us with the knowledge to enhance business strategies, improve product placement, and fine-tune pricing for sustained growth.
 
-- BigMart Sales [Dataset]()
-- Power Bi [Dashboard](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Bigmart-sales-dashboard.pdf)
-- Python [EDA](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/BigMart-Sales-Prediction.ipynb)
+- BigMart Sales [Dataset](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Train.csv)
+- BigMart Sales [Power Bi Dashboard](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Bigmart-sales-dashboard.pdf)
+- BigMart Sales [Python EDA](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/BigMart-Sales-Prediction.ipynb)
+
 ---
 
 ## **Data Structure**
@@ -32,7 +33,7 @@ The dataset provides a detailed view of product and outlet-level attributes, ena
 
 This structure provides a clear view of sales drivers, pricing, and outlet performance.
 
-- BigMart Sales [Dataset]()
+- BigMart Sales [Dataset](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Train.csv)
 
 ---
 
@@ -64,7 +65,7 @@ The Power BI dashboard is structured across two pages, providing valuable insigh
 
 This dashboard layout delivers a clear picture of both product performance and outlet insights, helping guide decisions to improve sales strategies and optimize outlet performance.
 
-- Power Bi [Dashboard](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Bigmart-sales-dashboard.pdf)
+- BigMart Sales [Power Bi Dashboard](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Bigmart-sales-dashboard.pdf)
 
 ---
 
@@ -81,7 +82,7 @@ In our exploratory data analysis (EDA) phase, we focused on understanding the da
 
 This EDA process helped refine the dataset, making it ready for modeling by addressing missing values, outliers, and encoding categorical data effectively.
 
-- Python [EDA](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/BigMart-Sales-Prediction.ipynb)
+- BigMart Sales [Python EDA](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/BigMart-Sales-Prediction.ipynb)
 
 ---
 
@@ -95,8 +96,8 @@ This EDA process helped refine the dataset, making it ready for modeling by addr
 
 These recommendations will help optimize product and outlet performance, ultimately contributing to higher sales and better strategic decisions.
 
-- BigMart Sales [Dataset]()
-- Power Bi [Dashboard](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Bigmart-sales-dashboard.pdf)
-- Python [EDA](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/BigMart-Sales-Prediction.ipynb)
+- BigMart Sales [Dataset](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Train.csv)
+- BigMart Sales [Power Bi Dashboard](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/Bigmart-sales-dashboard.pdf)
+- BigMart Sales [Python EDA](https://github.com/NishaChandila/BigMart-Sales-Prediction/blob/main/BigMart-Sales-Prediction.ipynb)
 
 ---
